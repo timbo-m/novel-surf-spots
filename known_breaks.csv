@@ -1,0 +1,52 @@
+name,lat,lon,type,direction,best_swell,best_tide,note,source
+Porthleven,50.08200,-5.32123,reef,left and right,S-SW,mid-high,world-class reef over boulders; the benchmark,mondo.surf
+Cribbar Point,50.42575,-5.10358,reef,left and right,SW-W,all,big-wave reef off Towan Head; rarely breaks,mondo.surf
+Constantine Reef,50.53187,-5.02681,reef,left,SW-W,all (rising best),left reef at Constantine,mondo.surf
+Treyarnon,50.52698,-5.02546,reef,left,SW-NW,low rising,left reef; quality depends on sand,mondo.surf
+Black Rock,50.78716,-4.56345,reef,left and right,NW-N,mid-high,heavy reef at the north end of Widemouth,mondo.surf
+Cot Valley,50.11935,-5.70164,reef,,SW-NW,all,reef south of Cape Cornwall,mondo.surf
+Downderry,50.35940,-4.36465,reef,left and right,S-SW,low-mid,shallow powerful south-coast reef,mondo.surf
+Marazion Pointers,50.11830,-5.47467,reef,right,SW,low-mid rising,reef right with a barrel section,mondo.surf
+Mousehole Reef,50.08122,-5.53788,reef,right,SW,low-mid,rarely breaks; needs a big swell,mondo.surf
+Portreath (The Wall),50.26294,-5.29311,reef,right,SW-NW,high,rocky right by the harbour wall,mondo.surf + surfnerd
+Duckpool,50.87476,-4.56051,reef,left and right,SW-NW,low-mid,rocky A-frame north of Bude,mondo.surf + surfnerd
+Millook,50.77249,-4.58030,reef,left,N,high rising,left over boulders; rarely breaks,mondo.surf
+Tremoutha Haven,50.73900,-4.64169,reef,left,SW-NW,mid rising,rocky boulder left; seldom breaks,mondo.surf
+Foxhole,50.77732,-4.57372,reef,left,SW-W,low-mid,boulder left near Millook,mondo.surf
+Barras Nose,50.67208,-4.75843,point,right,SW-W,low,sand-over-rock right point at Tintagel,mondo.surf
+Breakwater (St Ives),50.21560,-5.47545,point,left,SE-W,low-mid,left point behind St Ives pier; needs a good swell,mondo.surf
+Daymer Point,50.55993,-4.92600,point,right,SW-NW,mid,right off the point with strong rips,mondo.surf
+Marsland Left,50.92773,-4.55166,point,left,SW-NW,mid-high rising,long fast left off the southern rocks,mondo.surf
+Compass Point,50.82912,-4.55960,point,left,SW-NW,all,left off the point by Bude; needs calm conditions,mondo.surf
+Droskyn (Perranporth),50.3460,-5.1585,point,,,,listed as a point break by surfnerd; coordinates approximate (south end of Perranporth),surfnerd
+Barrets Zawn,50.60430,-4.79268,mixed,left and right,SW-W,low,sand and rock,mondo.surf
+Golden Burn,50.50900,-5.03100,mixed,left and right,NW-N,all,sand and rock A-frame,mondo.surf
+Pengold,50.72123,-4.65578,mixed,left and right,SW-NW,low,sand and rock,mondo.surf
+Prussia Cove,50.10188,-5.41453,mixed,left and right,SW,low-mid,sheltered sand and rock cove,mondo.surf
+Rinsey Cove,50.09306,-5.36736,mixed,left and right,,low-mid,sand and rock cove,mondo.surf
+Trevone,50.54674,-4.98052,mixed,right,SW-W,low-mid,sand and rock right,mondo.surf
+Wanson Mouth,50.78310,-4.56382,mixed,right,SW-NW,mid-high rising,short right over rocks and sand,mondo.surf
+Stanbury Mouth,50.89169,-4.56363,mixed,left and right,SW-NW,all,remote beach/point A-frame,mondo.surf
+Yeol Mouth,50.91894,-4.55846,mixed,left and right,SW-NW,all,rocky A-frame,mondo.surf
+Kennack Sands,50.00502,-5.16150,mixed,left and right,S-SW,low-mid rising,sloppy boulder spot,mondo.surf
+Newlyn Harbour wall,50.10728,-5.54715,harbour,right,SE-SW,mid rising,breaks off a man-made wall; not a natural seabed feature,mondo.surf
+Fistral,50.41738,-5.10198,beach,,,,,mondo.surf
+Sennen,50.07998,-5.69860,beach,,,,,mondo.surf
+Gwithian,50.22392,-5.39898,beach,,,,,mondo.surf
+Porthtowan,50.28717,-5.24811,beach,,,,,mondo.surf
+Perranporth,50.34906,-5.16267,beach,,,,,mondo.surf
+Penhale,50.39598,-5.14852,beach,,,,,mondo.surf
+Crantock,50.40852,-5.12495,beach,,,,,mondo.surf
+Watergate,50.44528,-5.04317,beach,,,,,mondo.surf
+Mawgan Porth,50.46946,-5.04256,beach,,,,,mondo.surf
+Constantine Beach,50.53429,-5.02580,beach,,,,,mondo.surf
+Boobies,50.53935,-5.02648,beach,,,,three peaks over sand,mondo.surf
+Harlyn,50.54219,-4.99961,beach,,,,,mondo.surf
+Polzeath,50.57611,-4.92040,beach,,,,,mondo.surf
+Stinky Bay,50.57954,-4.92061,beach,,,,,mondo.surf
+Widemouth Bay,50.79138,-4.56147,beach,,,,,mondo.surf
+Upton,50.81431,-4.55921,beach,,,,,mondo.surf
+Crooklets,50.83578,-4.55520,beach,,,,,mondo.surf
+Praa Sands,50.10180,-5.38823,beach,,,,,mondo.surf
+Porthleven Beach,50.08093,-5.31554,beach,,,,,mondo.surf
+Peter's Point,50.21932,-5.40269,beach,,,,sandy A-frame,mondo.surf

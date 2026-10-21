@@ -1,0 +1,34 @@
+{
+ "total": 47.497852955094025,
+ "comp": {
+  "geometry": 0.49074673652648926,
+  "seabed": 0.25680782891788934,
+  "physics": 0.6482255702548446,
+  "imagery": 0.42659873017620537,
+  "climate": 0.46811690784463056
+ },
+ "notes": {
+  "geometry": "land_frac 800 m 0.39 vs 0.44, 2 km 0.28 vs 0.40; headland axis vs dominant swell 43 vs 115 deg",
+  "seabed": "depth 0-2 km offshore differs by 16.6 m RMS (at 500 m: 9.1 vs 8.5 m; at 2 km: 11.3 vs 46.2 m); roughness 2.83 vs 1.82",
+  "physics": "best swell from 320 vs 280; working window 30 vs 40 deg; peel at best 55 vs 34 deg; peel-curve sim 0.52 (7 shared directions), breaker-height sim 0.67",
+  "imagery": "3 vs 6 big-swell days (2 vs 2 with readable crests); crest wrap at the point 53 vs 23 deg; nearshore crest spacing 1.03 vs 0.92 x deep-water wavelength; whitewater near take-off 15% vs 12%",
+  "climate": "swell >=1.5 m, >=9 s from the working window 11% vs 7% of daytime hours; with offshore/light wind 2% vs 5%; dominant swell 267 vs 319 deg"
+ },
+ "best": [
+  320,
+  280
+ ],
+ "window": [
+  [
+   270,
+   290,
+   320
+  ],
+  [
+   240,
+   270,
+   280,
+   310
+  ]
+ ]
+}

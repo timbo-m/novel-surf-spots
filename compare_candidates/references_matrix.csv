@@ -1,0 +1,15 @@
+reference,known_direction,called,hand_conf,best_swell_from,Boilers,Anchor Point,Porthleven,Cribbar Point,Constantine Reef,Treyarnon,Black Rock,Duckpool,Millook,Tremoutha Haven,Foxhole,Daymer Point,Marsland Left,Compass Point
+Boilers,right,right,1.00,280,,66,39,38,14,52,27,40,44,29,37,6,36,36
+Anchor Point,right,right,1.00,330,66,,42,35,14,47,27,40,26,33,37,5,43,41
+Porthleven,left and right,right,0.80,240,39,42,,26,25,54,46,56,66,57,58,15,51,51
+Cribbar Point,left and right,right,1.00,270,38,35,26,,2,31,23,29,21,25,28,2,20,35
+Constantine Reef,left,unclear,0.00,,14,14,25,2,,32,50,30,26,33,47,35,55,27
+Treyarnon,left,left,1.00,270,52,47,54,31,32,,43,68,61,47,46,11,56,60
+Black Rock,left and right,right,1.00,310,27,27,46,23,50,43,,54,46,54,79,37,68,60
+Duckpool,left and right,peak (both ways),0.37,270,40,40,56,29,30,68,54,,47,52,50,17,57,73
+Millook,left,left,1.00,240,44,26,66,21,26,61,46,47,,58,54,12,48,43
+Tremoutha Haven,left,left,1.00,280,29,33,57,25,33,47,54,52,58,,60,19,54,56
+Foxhole,left,left,1.00,320,37,37,58,28,47,46,79,50,54,60,,32,65,55
+Daymer Point,right,unclear,0.00,,6,5,15,2,35,11,37,17,12,19,32,,38,15
+Marsland Left,left,left,0.48,300,36,43,51,20,55,56,68,57,48,54,65,38,,47
+Compass Point,left,left,1.00,270,36,41,51,35,27,60,60,73,43,56,55,15,47,

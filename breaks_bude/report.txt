@@ -1,0 +1,11 @@
+coastal points scored: 624
+swell: 3.0 m @ 14.0 s from [250.0, 270.0, 290.0, 310.0]
+known breaks in this area: 14 (7 reefs/points used as positives)
+  hidden: Black Rock                   ranked in top 17% of the coast
+  hidden: Duckpool                     ranked in top 0% of the coast
+  hidden: Millook                      ranked in top 27% of the coast
+  hidden: Tremoutha Haven              ranked in top 57% of the coast
+  hidden: Foxhole                      ranked in top 28% of the coast
+  hidden: Marsland Left                ranked in top 4% of the coast
+  hidden: Compass Point                ranked in top 5% of the coast
+median hidden-break rank: top 17% (random guessing would be top 50%)

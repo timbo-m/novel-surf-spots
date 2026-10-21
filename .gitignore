@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+# raw satellite scenes and downloads (~1.2 GB): re-fetchable
+data/
+compare_*/data/
+compare_*/cache/
+*.tif
+*.npz

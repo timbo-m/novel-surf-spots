@@ -1,0 +1,8 @@
+coastal points scored: 1373
+swell: 3.0 m @ 14.0 s from [250.0, 270.0, 290.0, 310.0]
+known breaks in this area: 15 (4 reefs/points used as positives)
+  hidden: Cribbar Point                ranked in top 2% of the coast
+  hidden: Constantine Reef             ranked in top 1% of the coast
+  hidden: Treyarnon                    ranked in top 3% of the coast
+  hidden: Daymer Point                 ranked in top 64% of the coast
+median hidden-break rank: top 2% (random guessing would be top 50%)

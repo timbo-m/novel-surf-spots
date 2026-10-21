@@ -1,0 +1,9 @@
+torch>=2.2
+torchvision>=0.17
+pillow
+numpy
+requests
+# optional, for GeoTIFFs (Sentinel-2 / aerial orthophotos) so results get lat/lon
+rasterio
+scipy
+scikit-learn

@@ -1,0 +1,7 @@
+component,weight,score_0_1,detail
+geometry,0.15,0.491,"land_frac 800 m 0.39 vs 0.44, 2 km 0.28 vs 0.40; headland axis vs dominant swell 43 vs 115 deg"
+seabed,0.2,0.257,depth 0-2 km offshore differs by 16.6 m RMS (at 500 m: 9.1 vs 8.5 m; at 2 km: 11.3 vs 46.2 m); roughness 2.83 vs 1.82
+physics,0.3,0.648,"best swell from 320 vs 280; working window 30 vs 40 deg; peel at best 55 vs 34 deg; peel-curve sim 0.52 (7 shared directions), breaker-height sim 0.67"
+imagery,0.2,0.427,3 vs 6 big-swell days (2 vs 2 with readable crests); crest wrap at the point 53 vs 23 deg; nearshore crest spacing 1.03 vs 0.92 x deep-water wavelength; whitewater near take-off 15% vs 12%
+climate,0.15,0.468,"swell >=1.5 m, >=9 s from the working window 11% vs 7% of daytime hours; with offshore/light wind 2% vs 5%; dominant swell 267 vs 319 deg"
+overall_0_100,,47.5,
